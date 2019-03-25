@@ -1,0 +1,3 @@
+C:/Users/steve/Project/lbp-demo/build/CMakeFiles/lbp-demo.dir
+C:/Users/steve/Project/lbp-demo/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/steve/Project/lbp-demo/build/CMakeFiles/ZERO_CHECK.dir
